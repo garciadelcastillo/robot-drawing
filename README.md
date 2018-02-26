@@ -9,7 +9,7 @@ This repository is an interactive robotic drawing installation for Kids at Autod
 
 A touchscreen allows kids to draw their creations, and a series of scripts convert their designs to robotic instructions.
 
-The project is built with [Processing](https://processing.org/), [Dynamo](http://dynamobim.org/) and [Machina](https://github.com/garciadelcastillo/Machina) for [Dynamo](https://github.com/garciadelcastillo/Machina-Dynamo).
+The project is built with [Machina](https://github.com/garciadelcastillo/Machina-Dynamo) for [DynamoBIM](https://github.com/garciadelcastillo/Machina-Dynamo) and [Processing](https://processing.org/).
 
 Special thanks to [Nono](https://github.com/nonoesp) for teaming up to put this together, [Lilli Smith](https://www.linkedin.com/in/lilli-smith-500a26/) from the [Generative Design Team](https://www.autodesk.com/solutions/generative-design) for the organization of Kids' Day, and the incredible team at the [BUILD Space](https://www.autodesk.com/build-space), including Joe, Salem, Tim and the rest of the dream team ;)
 
